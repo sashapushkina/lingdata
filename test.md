@@ -7,4 +7,4 @@
 * богатый муж
 * еще один **еще более** богатый муж
 
-А здесь будет [гиперссылка](https://www.wildberries.ru/catalog/949371542/detail.aspx?targetUrl=MI) 
+А здесь будет [ссылка на меня в форбс](https://www.wildberries.ru/catalog/949371542/detail.aspx?targetUrl=MI) 
